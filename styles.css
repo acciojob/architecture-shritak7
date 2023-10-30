@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+#first{
+    width:1100px;
+    background-color:grey;
+}
+.image{
+    padding-left:10px;
+    width:200px;
+}
+.para{
+    width:600px;
+}
